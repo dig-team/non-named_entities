@@ -1,0 +1,74 @@
+expression                                                                	plurality 	Yago4          	manifestation           	modifiers            	vagueness
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+a chemical element                                                        	instance  	BioChemEntity  	undetermined            	adjective            	NOT_VAGUE
+the symbol AI                                                             	instance  	CreativeWork   	named                   	MODIFIERS            	MISC
+atomic number 13                                                          	instance  	Intangible     	named                   	adjective            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+a density lower than those of other common metals                         	instance  	Intangible     	undetermined            	adjective preposition	MISC
+one third that of steel                                                   	instance  	Intangible     	numbered                	preposition          	MISC
+a great affinity towards oxygen                                           	instance  	Intangible     	undetermined            	adjective preposition	degree
+a protective layer of oxide on the surface                                	instance  	BioChemEntity  	undetermined            	preposition          	MISC
+air                                                                       	instance  	BioChemEntity  	mass_noun               	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+silver                                                                    	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+its color                                                                 	instance  	Intangible     	qualified_anaphora      	MODIFIERS            	MISC
+its great ability to reflect light                                        	instance  	Intangible     	qualified_anaphora      	adjective preposition	degree
+It                                                                        	instance  	BioChemEntity  	anaphora                	MODIFIERS            	MISC
+It                                                                        	instance  	BioChemEntity  	anaphora                	MODIFIERS            	MISC
+one stable isotope, 27Al                                                  	instance  	BioChemEntity  	named numbered          	MODIFIERS            	MISC
+this isotope                                                              	instance  	BioChemEntity  	anaphora                	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+the twelfth most common element in the Universe                           	instance  	BioChemEntity  	determined              	preposition adjective	MISC
+The radioactivity of 26Al                                                 	instance  	intangible     	determined              	preposition          	MISC
+radiodating                                                               	instance  	Action         	mass_noun               	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+a weak metal in the boron group                                           	instance  	BioChemEntity  	undetermined            	preposition          	MISC
+the group                                                                 	class     	BioChemEntity  	determined              	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+compounds                                                                 	class     	BioChemEntity  	undetermined            	MODIFIERS            	portions
+the +3 oxidation state                                                    	instance  	Intangible     	named determined        	MODIFIERS            	MISC
+The aluminium cation Al3+                                                 	instance  	BioChemEntity  	named determined        	MODIFIERS            	MISC
+bonds aluminium forms                                                     	class     	BioChemEntity  	undetermined            	MODIFIERS            	portions
+covalency                                                                 	instance  	Intangible     	mass_noun               	MODIFIERS            	MISC
+The strong affinity towards oxygen                                        	instance  	Intangible     	mass_noun contains_named	adjective preposition	degree
+aluminium's common association with oxygen in nature in the form of oxides	instance  	Intangible     	undetermined            	adjective preposition	degree
+this reason                                                               	instance  	Intangible     	anaphora                	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+Earth                                                                     	instance  	Place          	named                   	MODIFIERS            	MISC
+rocks in the crust                                                        	class     	Place          	undetermined            	preposition          	portions
+the third most abundant element after oxygen and silicon                  	instance  	BioChemEntity  	determined              	adjective preposition	MISC
+the mantle                                                                	instance  	Place          	determined              	MODIFIERS            	MISC
+the free metal                                                            	instance  	BioChemEntity  	determined              	adjective            	MISC
+Discovery of aluminium                                                    	instance  	Event          	mass_noun               	preposition          	NOT_VAGUE
+Danish physicist Hans Christian Orsted                                    	instance  	Person         	named                   	adjective            	NOT_VAGUE
+The first industrial production of aluminium                              	instance  	Event          	determined              	preposition          	MISC
+French chemist Henri Étienne Sainte-Claire Deville                        	instance  	person         	named                   	adjective            	not_vague
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+the Hall–Héroult process                                                  	instance  	creativework   	named                   	MODIFIERS            	not_vague
+French engineer Paul Héroult                                              	instance  	Person         	named                   	adjective            	NOT_VAGUE
+American engineer Charles Martin Hall                                     	instance  	Person         	named                   	adjective            	NOT_VAGUE
+the mass production of aluminium                                          	instance  	Action         	mass_noun contains_named	preposition          	degree
+its extensive use in industry and everyday life                           	instance  	Action         	qualified_anaphora      	adjective preposition	degree
+World Wars I and II                                                       	class     	Event          	named                   	MODIFIERS            	NOT_VAGUE
+a crucial strategic resource for aviation                                 	instance  	Intangible     	undetermined            	adjective preposition	subjective
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+the most produced non-ferrous metal                                       	instance  	BioChemEntity  	determined              	adjective            	NOT_VAGUE
+copper                                                                    	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+the 21st century                                                          	instance  	Event          	determined named        	adjective            	NOT_VAGUE
+most Aluminium                                                            	instance  	BioChemEntity  	named                   	adjective            	NOT_VAGUE
+transportation                                                            	instance  	Action         	mass_noun               	MODIFIERS            	not_vague
+engineering                                                               	instance  	Action         	mass_noun               	MODIFIERS            	not_vague
+construction                                                              	instance  	Action         	mass_noun               	MODIFIERS            	not_vague
+packaging                                                                 	instance  	Action         	mass_noun               	MODIFIERS            	not_vague
+the United States                                                         	instance  	Place          	named determined        	MODIFIERS            	NOT_VAGUE
+Western Europe                                                            	instance  	Place          	named                   	adjective            	NOT_VAGUE
+Japan                                                                     	instance  	Place          	named                   	MODIFIERS            	NOT_VAGUE
+its prevalence in the environment                                         	instance  	Intangible     	qualified_anaphora      	preposition          	degree
+no living organism                                                        	class     	Taxon          	numbered                	adjective            	MISC
+aluminium salts                                                           	class     	BioChemEntity  	undetermined            	MODIFIERS            	MISC
+Aluminium                                                                 	instance  	BioChemEntity  	named                   	MODIFIERS            	NOT_VAGUE
+plants and animals                                                        	class     	Taxon          	undetermined            	MODIFIERS            	portions
+the abundance of these salts                                              	instance  	Intangible     	determined              	preposition          	degree
+the potential for a biological role for them                              	instance  	Intangible     	determined              	preposition          	degree
+continuing interest                                                       	instance  	Intangible     	undetermined            	adjective            	degree
+studies                                                                   	class     	Action         	undetermined            	MODIFIERS            	portions

@@ -1,0 +1,90 @@
+expression                                                                       	plurality 	Yago4          	manifestation                      	modifiers                 	vagueness
+The dating of the Norte Chico                                                    	instance  	Action         	determined contains_named          	preposition               	NOT_VAGUE
+the estimated beginning date of complex societies in the Peruvian region         	instance  	Intangible     	determined                         	adjective preposition noun	subjective portions
+one thousand years                                                               	class     	Event          	numbered                           	MODIFIERS                 	NOT_VAGUE
+The Chavín culture                                                               	instance  	Organization   	determined contains_named          	MODIFIERS                 	NOT_VAGUE
+the first civilization of the area                                               	instance  	Organization   	determined                         	adjective preposition     	NOT_VAGUE
+general works                                                                    	class     	CreativeWork   	undetermined                       	adjective                 	portions
+The discovery of Norte Chico                                                     	instance  	Event          	determined contains_named          	preposition               	NOT_VAGUE
+the focus of research                                                            	instance  	Intangible     	determined                         	preposition               	NOT_VAGUE
+the highland areas of the Andes                                                  	class     	Place          	determined contains_named          	preposition               	degree portions
+the mountains                                                                    	class     	Place          	determined                         	MODIFIERS                 	portions
+the Chavín                                                                       	instance  	Organization   	determined named                   	MODIFIERS                 	NOT_VAGUE
+later Inca                                                                       	instance  	Organization   	named                              	MODIFIERS                 	NOT_VAGUE
+their major centers                                                              	class     	Place          	anaphora                           	adjective                 	subjective portions
+the Peruvian littoral                                                            	instance  	Place          	determined                         	adjective                 	NOT_VAGUE
+coastal regions                                                                  	class     	Place          	undetermined                       	adjective                 	portions
+Norte Chico                                                                      	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+a north-central area of the coast                                                	instance  	Place          	undetermined                       	adjective preposition     	NOT_VAGUE
+Lima                                                                             	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+the Lurín Valley on the south                                                    	instance  	Place          	determined named                   	preposition               	NOT_VAGUE
+the Casma Valley on the north                                                    	instance  	Place          	determined named                   	preposition               	NOT_VAGUE
+four coastal valleys                                                             	instance  	Place          	numbered                           	adjective                 	NOT_VAGUE
+the Huaura                                                                       	instance  	Place          	determined named                   	MODIFIERS                 	NOT_VAGUE
+Supe                                                                             	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+Pativilca                                                                        	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+Fortaleza                                                                        	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+known sites                                                                      	class     	Place          	undetermined                       	MODIFIERS                 	NOT_VAGUE
+share a common coastal plain                                                     	instance  	Place          	undetermined                       	adjective                 	NOT_VAGUE
+The three principal valleys                                                      	class     	Place          	determined numbered                	MODIFIERS                 	NOT_VAGUE
+research                                                                         	class     	Action         	mass_noun                          	MODIFIERS                 	portions
+the density of the population centers                                            	class     	Intangible     	determined                         	preposition               	NOT_VAGUE
+even aberrant candidate for the pristine development of civilization             	instance  	Place          	undetermined                       	adjective preposition     	subjective
+other world centers                                                              	class     	Place          	undetermined                       	adjective                 	portions
+two rain shadows                                                                 	class     	Place          	numbered                           	MODIFIERS                 	NOT_VAGUE
+the Andes                                                                        	instance  	Place          	determined named                   	MODIFIERS                 	NOT_VAGUE
+the east                                                                         	instance  	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+the Pacific trade winds                                                          	class     	Intangible     	determined                         	MODIFIERS                 	NOT_VAGUE
+the west                                                                         	instance  	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+The region                                                                       	instance  	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+50 rivers                                                                        	class     	Place          	numbered                           	MODIFIERS                 	NOT_VAGUE
+Andean snowmelt                                                                  	instance  	Product        	undetermined                       	MODIFIERS                 	NOT_VAGUE
+The development of widespread irrigation from these water sources                	instance  	Event          	determined                         	adjective noun preposition	NOT_VAGUE
+the emergence of Norte Chico                                                     	instance  	Event          	determined contains_named          	preposition               	NOT_VAGUE
+the monumental architecture at various sites                                     	instance  	Place          	determined mass_noun               	adjective preposition     	degree portions
+irrigation channels                                                              	class     	Place          	undetermined                       	noun                      	portions
+The radiocarbon work of Jonathan Haas                                            	instance  	CreativeWork   	determined mass_noun contains_named	preposition noun          	NOT_VAGUE
+10 of 95 samples                                                                 	class     	Product        	numbered                           	MODIFIERS                 	NOT_VAGUE
+the Pativilca                                                                    	instance  	Place          	determined named                   	MODIFIERS                 	NOT_VAGUE
+Fortaleza areas                                                                  	class     	Place          	undetermined                       	MODIFIERS                 	portions
+limited indication of human settlement during the Pre-Columbian Early Archaic era	instance  	Product        	undetermined                       	adjective noun preposition	subjective
+communal architecture                                                            	instance  	Place          	mass_noun                          	adjective                 	NOT_VAGUE
+large-scale human settlement                                                     	instance  	Place          	undetermined                       	adjective noun            	degree
+communal construction                                                            	instance  	Place          	mass_noun                          	adjective                 	NOT_VAGUE
+Mann                                                                             	instance  	Person         	named                              	MODIFIERS                 	NOT_VAGUE
+a survey of the literature                                                       	instance  	CreativeWork   	undetermined                       	preposition               	NOT_VAGUE
+3500 BC as the beginning date of the Norte Chico                                 	instance  	Event          	numbered contains_named            	preposition               	NOT_VAGUE
+formative period                                                                 	instance  	Event          	undetermined                       	adjective                 	NOT_VAGUE
+the earliest date                                                                	instance  	Event          	determined                         	adjective                 	NOT_VAGUE
+a city                                                                           	instance  	Place          	undetermined anaphora              	MODIFIERS                 	NOT_VAGUE
+Huaricanga                                                                       	instance  	Place          	named                              	MODIFIERS                 	NOT_VAGUE
+the Fortaleza area of the north                                                  	instance  	Place          	determined contains_named          	preposition               	NOT_VAGUE
+Haas's dates                                                                     	class     	Intangible     	determined contains_named          	MODIFIERS                 	NOT_VAGUE
+Haas's early-third-millennium dates                                              	class     	Intangible     	undetermined contains_named        	MODIFIERS                 	NOT_VAGUE
+the development of coastal and inland sites                                      	class     	Event          	determined                         	preposition               	NOT_VAGUE
+the period of greatest expansion                                                 	instance  	Event          	determined                         	adjective preposition     	subjective
+the population                                                                   	class     	Person         	determined                         	MODIFIERS                 	NOT_VAGUE
+(the) development                                                                	instance  	Intangible     	mass_noun                          	MODIFIERS                 	NOT_VAGUE
+the inland sites                                                                 	class     	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+All development                                                                  	instance  	Intangible     	mass_noun                          	MODIFIERS                 	subjective
+large interior sites                                                             	class     	Place          	undetermined                       	adjective                 	degree portions
+Caral                                                                            	instance  	Place          	named                              	adjective                 	NOT_VAGUE
+fish and shellfish from the coast                                                	class     	Taxon          	undetermined                       	preposition               	NOT_VAGUE
+The peak in dates                                                                	class     	Intangible     	determined                         	preposition               	NOT_VAGUE
+Shady's dates at Caral                                                           	class     	Intangible     	determined contains_named          	preposition               	NOT_VAGUE
+habitation from 2627 BC                                                          	instance  	Place          	mass_noun                          	preposition               	NOT_VAGUE
+That coastal                                                                     	instance  	Place          	anaphora                           	MODIFIERS                 	NOT_VAGUE
+inland sites                                                                     	class     	Place          	undetermined                       	MODIFIERS                 	portions
+the Norte Chico civilization                                                     	instance  	Organization   	determined contains_named          	noun                      	NOT_VAGUE
+more powerful centers                                                            	class     	Place          	undetermined                       	adjective                 	subjective portions
+the south                                                                        	instance  	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+the coast                                                                        	instance  	Place          	determined                         	MODIFIERS                 	NOT_VAGUE
+the belt of the Andes                                                            	instance  	Place          	determined contains_named          	preposition               	NOT_VAGUE
+Norte Chico's success at irrigation-based agriculture                            	instance  	Intangible     	mass_noun contains_named           	adjective preposition     	NOT_VAGUE
+Anthropologist Professor Winifred Creamer of Northern Illinois University        	instance  	Person         	named                              	preposition noun          	NOT_VAGUE
+this civilization                                                                	instance  	Organization   	anaphora                           	MODIFIERS                 	NOT_VAGUE
+extensive canals                                                                 	class     	Place          	undetermined                       	adjective                 	portions
+People                                                                           	class     	Person         	undetermined                       	MODIFIERS                 	portions
+more fertile ground                                                              	class     	Place          	mass_noun                          	adjective                 	degree portions
+their knowledge of irrigation                                                    	instance  	Intangible     	anaphora                           	preposition               	subjective
+a thousand years before the rise of the next great Peruvian culture              	instance  	Event          	undetermined numbered              	adjective preposition     	subjective

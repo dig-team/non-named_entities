@@ -1,0 +1,60 @@
+expression                                           	plurality 	Yago4          	manifestation                               	modifiers            	vagueness
+presidential candidate Robert F. Kennedy             	instance  	person         	named                                       	adjective            	NOT_VAGUE
+the Ambassador Hotel                                 	instance  	place          	determined named                            	preposition          	NOT_VAGUE
+Los Angeles                                          	instance  	place          	named                                       	MODIFIERS            	NOT_VAGUE
+the 42-year-old junior senator from New York         	instance  	person         	determined                                  	adjective preposition	NOT_VAGUE
+the winner in the South Dakota                       	instance  	person         	determined                                  	preposition          	NOT_VAGUE
+California                                           	instance  	place          	named                                       	MODIFIERS            	NOT_VAGUE
+1968 Democratic Party presidential primaries         	class     	event          	undetermined contains_named                 	adjective            	NOT_VAGUE
+the 1968 United States presidential election         	instance  	event          	determined                                  	adjective            	NOT_VAGUE
+dual victories in the California                     	class     	event          	undetermined contains_named                 	adjective preposition	NOT_VAGUE
+South Dakota                                         	instance  	place          	named                                       	MODIFIERS            	NOT_VAGUE
+primary elections for the Democratic nomination      	class     	event          	contains_named                              	adjective preposition	NOT_VAGUE
+President of the United States                       	instance  	person         	undetermined named                          	preposition          	NOT_VAGUE
+Senator Kennedy                                      	instance  	person         	undetermined named                          	MODIFIERS            	NOT_VAGUE
+journalists                                          	class     	person         	undetermined                                	MODIFIERS            	portions
+campaign workers                                     	class     	person         	undetermined                                	noun                 	portions
+celebration                                          	instance  	event          	mass_noun                                   	preposition          	NOT_VAGUE
+the stage of his headquarters at the Ambassador Hotel	class     	place          	determined contains_named                   	preposition          	NOT_VAGUE
+the podium                                           	instance  	place          	determined                                  	MODIFIERS            	NOT_VAGUE
+a kitchen hallway                                    	instance  	place          	undetermined                                	noun                 	NOT_VAGUE
+multiple shots                                       	class     	action         	undetermined                                	adjective            	degree portions
+a handgun                                            	instance  	product        	undetermined                                	MODIFIERS            	NOT_VAGUE
+the Good Samaritan Hospital                          	instance  	place          	determined named                            	adjective            	NOT_VAGUE
+The shooter                                          	instance  	person         	determined                                  	MODIFIERS            	NOT_VAGUE
+24-year-old Sirhan Sirhan                            	instance  	person         	named                                       	adjective            	NOT_VAGUE
+Sirhan                                               	instance  	person         	named anaphora                              	MODIFIERS            	NOT_VAGUE
+the senator                                          	instance  	person         	determined                                  	MODIFIERS            	NOT_VAGUE
+death                                                	instance  	event          	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+his sentence                                         	instance  	intangible     	determined anaphora                         	MODIFIERS            	NOT_VAGUE
+life in prison                                       	instance  	intangible     	mass_noun                                   	preposition          	NOT_VAGUE
+A freelance newspaper reporter                       	instance  	person         	undetermined                                	noun                 	NOT_VAGUE
+the shooting on audio tape                           	instance  	action         	determined mass_noun                        	preposition          	NOT_VAGUE
+the aftermath                                        	instance  	intangible     	determined                                  	MODIFIERS            	NOT_VAGUE
+film                                                 	instance  	product        	mass_noun                                   	MODIFIERS            	NOT_VAGUE
+Kennedy's remains                                    	class     	product        	determined                                  	MODIFIERS            	NOT_VAGUE
+St. Patrick's Cathedral                              	instance  	place          	named                                       	MODIFIERS            	NOT_VAGUE
+New York                                             	instance  	place          	named                                       	MODIFIERS            	NOT_VAGUE
+two days of public viewing                           	class     	creativework   	undetermined                                	MODIFIERS            	NOT_VAGUE
+a funeral Mass                                       	instance  	event          	undetermined                                	adjective            	NOT_VAGUE
+his funeral train                                    	instance  	product        	anaphora                                    	adjective            	NOT_VAGUE
+Washington D.C                                       	instance  	creativework   	named                                       	MODIFIERS            	NOT_VAGUE
+throngs of spectators                                	class     	person         	undetermined                                	preposition          	portions
+the route                                            	instance  	place          	determined                                  	MODIFIERS            	NOT_VAGUE
+the journey                                          	instance  	event          	determined                                  	MODIFIERS            	NOT_VAGUE
+his body                                             	instance  	product        	determined qualified_anaphora               	MODIFIERS            	NOT_VAGUE
+Arlington National Cemetery                          	instance  	place          	named                                       	preposition          	NOT_VAGUE
+his brother John                                     	instance  	person         	determined qualified_anaphora contains_named	MODIFIERS            	NOT_VAGUE
+the United States Secret Service                     	instance  	organization   	determined named                            	MODIFIERS            	NOT_VAGUE
+presidential candidates                              	class     	person         	undetermined                                	adjective            	NOT_VAGUE
+Vice President Hubert Humphrey                       	instance  	person         	undetermined named                          	MODIFIERS            	NOT_VAGUE
+a presidential candidate                             	instance  	person         	undetermined                                	adjective            	NOT_VAGUE
+the Democratic nomination                            	instance  	event          	determined contains_named                   	adjective            	NOT_VAGUE
+the election                                         	instance  	event          	determined anaphora                         	MODIFIERS            	NOT_VAGUE
+Republican candidate Richard Nixon                   	instance  	person         	undetermined named                          	adjective            	NOT_VAGUE
+his brother's assassination                          	instance  	event          	qualified_anaphora                          	MODIFIERS            	NOT_VAGUE
+Robert Kennedy's assassination                       	instance  	event          	determined contains_named                   	MODIFIERS            	NOT_VAGUE
+a number of conspiracy theories                      	class     	creativework   	undetermined numbered                       	preposition noun     	portions
+no credible evidence                                 	instance  	intangible     	undetermined                                	adjective            	NOT_VAGUE
+Huey Long of Louisiana                               	instance  	person         	named                                       	preposition          	NOT_VAGUE
+the only two sitting United States Senators          	class     	person         	determined named                            	adjective            	NOT_VAGUE

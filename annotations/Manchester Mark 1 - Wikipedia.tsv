@@ -1,0 +1,51 @@
+expression                                                                  	plurality 	Yago4          	manifestation                     	modifiers       	vagueness
+The Manchester Mark 1                                                       	instance  	Product        	determined named                  	MODIFIERS       	NOT_VAGUE
+one of the earliest stored-program computers                                	class     	Product        	determined                        	adjective       	degree portions
+the Victoria University of Manchester                                       	instance  	Organization   	determined named                  	preposition     	NOT_VAGUE
+the Manchester Baby                                                         	instance  	Product        	determined named                  	modifiers       	not_vague
+Work                                                                        	instance  	action         	mass_noun                         	MODIFIERS       	subjective
+the first version                                                           	instance  	Product        	determined                        	adjective       	NOT_VAGUE
+a program written to search for Mersenne primes                             	instance  	CreativeWork   	undetermined contains_named       	preposition     	NOT_VAGUE
+the night of 16/17 June                                                     	class     	intangible     	determined numbered contains_named	preposition     	NOT_VAGUE
+The machine's successful operation                                          	instance  	Action         	determined                        	adjective       	NOT_VAGUE
+the British press                                                           	class     	Organization   	determined                        	adjective       	portions
+electronic brain                                                            	instance  	Product        	determined                        	adjective       	NOT_VAGUE
+their readers                                                               	class     	Person         	qualified_anaphora                	MODIFIERS       	portions
+That description                                                            	instance  	CreativeWork   	qualified_anaphora                	MODIFIERS       	NOT_VAGUE
+the head of the University of Manchester's Department of Neurosurgery       	instance  	Person         	determined contains_named         	preposition     	NOT_VAGUE
+the start of a long-running debate                                          	instance  	Intangible     	determined                        	preposition     	degree
+an electronic computer                                                      	instance  	Product        	undetermined                      	adjective       	NOT_VAGUE
+The Mark 1                                                                  	instance  	Product        	determined named                  	MODIFIERS       	NOT_VAGUE
+a computing resource within the university                                  	instance  	Product        	undetermined                      	preposition     	NOT_VAGUE
+researchers                                                                 	class     	Person         	undetermined                      	MODIFIERS       	portions
+experience in the practical use of computers                                	class     	Intangible     	mass_noun                         	preposition     	subjective
+a prototype                                                                 	instance  	Product        	undetermined                      	MODIFIERS       	NOT_VAGUE
+the design of Ferranti's commercial version                                 	instance  	Product        	determined contains_named         	preposition     	NOT_VAGUE
+Development                                                                 	instance  	intangible     	mass_noun                         	MODIFIERS       	subjective
+the end of 1950                                                             	instance  	Event          	determined                        	preposition     	NOT_VAGUE
+the machine                                                                 	instance  	Product        	determined anaphora               	MODIFIERS       	NOT_VAGUE
+a Ferranti Mark I                                                           	instance  	Product        	undetermined named                	MODIFIERS       	NOT_VAGUE
+the world's first commercially available general-purpose electronic computer	instance  	Product        	determined                        	adjective       	NOT_VAGUE
+The computer                                                                	instance  	Product        	determined anaphora               	MODIFIERS       	NOT_VAGUE
+its pioneering inclusion of index registers                                 	instance  	Intangible     	qualified_anaphora                	preposition noun	NOT_VAGUE
+an innovation                                                               	instance  	Intangible     	undetermined anaphora             	MODIFIERS       	NOT_VAGUE
+a program                                                                   	instance  	creativework   	undetermined                      	modifiers       	not_vague
+an array of words in memory                                                 	instance  	CreativeWork   	undetermined                      	preposition     	NOT_VAGUE
+Thirty-four patents                                                         	class     	CreativeWork   	numbered                          	MODIFIERS       	NOT_VAGUE
+the machine's development                                                   	instance  	CreativeWork   	determined                        	MODIFIERS       	NOT_VAGUE
+many of the ideas behind its design                                         	class     	CreativeWork   	determined                        	preposition     	degree portions
+subsequent commercial products                                              	class     	Product        	undetermined                      	adjective       	portions
+the IBM 701 and 702                                                         	instance  	Product        	determined named                  	MODIFIERS       	NOT_VAGUE
+the Ferranti Mark 1                                                         	instance  	Product        	determined named                  	MODIFIERS       	NOT_VAGUE
+The chief designers                                                         	class     	Person         	determined anaphora               	noun            	NOT_VAGUE
+Frederic C. Williams                                                        	instance  	Person         	named                             	MODIFIERS       	NOT_VAGUE
+Tom Kilburn                                                                 	instance  	Person         	named                             	MODIFIERS       	NOT_VAGUE
+their experiences with the Mark 1                                           	class     	Intangible     	qualified_anaphora                	preposition     	NOT_VAGUE
+computers                                                                   	class     	Product        	undetermined                      	MODIFIERS       	NOT_VAGUE
+scientific roles                                                            	class     	Intangible     	undetermined                      	adjective       	portions
+pure mathematics                                                            	class     	CreativeWork   	mass_noun                         	MODIFIERS       	NOT_VAGUE
+development work on Meg                                                     	instance  	intangible     	undetermined mass_noun            	noun preposition	NOT_VAGUE
+the Mark 1's successor                                                      	instance  	Product        	determined                        	MODIFIERS       	NOT_VAGUE
+a floating point unit                                                       	instance  	Product        	undetermined named                	adjective noun  	NOT_VAGUE
+the Manchester Automatic Digital Machine                                    	instance  	Product        	determined named                  	MODIFIERS       	NOT_VAGUE
+MADM                                                                        	instance  	Product        	named                             	MODIFIERS       	NOT_VAGUE

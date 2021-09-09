@@ -1,0 +1,38 @@
+expression                                      	plurality 	Yago4          	manifestation                  	modifiers            	vagueness
+The Song dynasty                                	instance  	organization   	determined contains_named      	MODIFIERS            	NOT_VAGUE
+some technological advances in Chinese history  	class     	creativework   	numbered contains_named        	adjective preposition	portions degree subjective
+talented statesmen                              	class     	person         	undetermined                   	adjective            	portions subjective
+the government                                  	instance  	organization   	determined                     	MODIFIERS            	NOT_VAGUE
+imperial examinations                           	class     	Action         	undetermined                   	adjective            	portions
+The ingenuity of advanced mechanical engineering	instance  	intangible     	determined                     	adjective preposition	subjective portions
+a long tradition in China                       	instance  	intangible     	undetermined contains_named    	adjective preposition	degree
+The Song engineer Su Song                       	instance  	person         	determined named contains_named	noun                 	NOT_VAGUE
+his contemporaries                              	class     	person         	determined qualified_anaphora  	MODIFIERS            	portions
+the achievements of the ancients                	class     	creativework   	determined                     	preposition          	NOT_VAGUE
+Zhang Heng                                      	instance  	person         	named                          	MODIFIERS            	NOT_VAGUE
+an astronomer                                   	instance  	person         	undetermined                   	MODIFIERS            	NOT_VAGUE
+inventor                                        	instance  	person         	undetermined                   	MODIFIERS            	NOT_VAGUE
+an early master of mechanical gears             	instance  	person         	undetermined                   	adjective preposition	NOT_VAGUE
+The application of movable type printing        	instance  	action         	determined                     	preposition          	NOT_VAGUE
+the already widespread use of woodblock printing	instance  	action         	determined                     	adjective preposition	degree
+Confucian students                              	class     	person         	undetermined contains_named    	adjective            	portions
+the masses                                      	class     	person         	determined                     	MODIFIERS            	portions
+The application of new weapons                  	class     	action         	determined                     	preposition          	portions
+the use of gunpowder                            	instance  	action         	determined                     	preposition          	NOT_VAGUE
+the Song                                        	instance  	organization   	determined named               	MODIFIERS            	NOT_VAGUE
+its militant enemies                            	class     	organization   	qualified_anaphora             	adjective            	NOT_VAGUE
+the Liao                                        	instance  	organization   	determined named               	adjective            	NOT_VAGUE
+Western Xia                                     	instance  	organization   	named                          	adjective            	NOT_VAGUE
+Jin                                             	class     	organization   	named                          	MODIFIERS            	NOT_VAGUE
+weapons                                         	instance  	product        	undetermined                   	MODIFIERS            	NOT_VAGUE
+cannons                                         	instance  	product        	undetermined                   	MODIFIERS            	NOT_VAGUE
+the Mongol forces of Kublai Khan                	class     	organization   	determined contains_named      	adjective preposition	NOT_VAGUE
+the late 13th century                           	instance  	event          	determined                     	adjective            	degree
+Notable advances in civil engineering           	class     	creativework   	undetermined                   	adjective preposition	subjective
+nautics                                         	class     	action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+metallurgy                                      	instance  	action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+Song China                                      	instance  	organization   	named                          	MODIFIERS            	NOT_VAGUE
+the introduction of the windmill                	instance  	Event          	determined                     	preposition          	NOT_VAGUE
+These advances                                  	class     	creativework   	qualified_anaphora             	MODIFIERS            	NOT_VAGUE
+the introduction of paper-printed money         	instance  	Event          	determined                     	preposition          	NOT_VAGUE
+the economy of the Song dynasty                 	instance  	intangible     	determined contains_named      	preposition          	NOT_VAGUE

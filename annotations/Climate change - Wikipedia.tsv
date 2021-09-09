@@ -1,0 +1,105 @@
+expression                                                      	plurality 	Yago4          	manifestation                  	modifiers            	vagueness
+Climate change                                                  	instance  	Event          	named                          	MODIFIERS            	NOT_VAGUE
+the global warming                                              	instance  	Event          	determined                     	adjective            	subjective
+human emissions of greenhouse gases                             	class     	Action         	undetermined                   	adjective preposition	portions
+the resulting large-scale shifts in weather patterns            	class     	Event          	determined                     	adjective preposition	degree portions
+previous periods of climatic change                             	class     	Event          	undetermined                   	adjective preposition	portions
+the mid-20th century                                            	instance  	Event          	determined                     	adjective            	degree
+humans                                                          	class     	Person         	undetermined                   	MODIFIERS            	NOT_VAGUE
+unprecedented impact on Earth's climate system                  	instance  	Intangible     	mass_noun                      	preposition adjective	subjective
+change on a global scale                                        	instance  	Intangible     	undetermined                   	preposition          	subjective
+The largest driver of warming                                   	instance  	Intangible     	determined                     	adjective preposition	NOT_VAGUE
+the emission of greenhouse gases                                	class     	Action         	determined mass_noun           	preposition          	NOT_VAGUE
+carbon dioxide                                                  	instance  	BioChemEntity  	mass_noun                      	noun                 	NOT_VAGUE
+methane                                                         	instance  	BioChemEntity  	mass_noun                      	MODIFIERS            	NOT_VAGUE
+Fossil fuel burning for energy consumption                      	instance  	Action         	mass_noun                      	noun preposition     	NOT_VAGUE
+the main source of these emissions                              	class     	Intangible     	determined qualified_anaphora  	adjective preposition	degree
+additional contributions from agriculture                       	class     	Intangible     	undetermined                   	adjective preposition	portions
+deforestation                                                   	instance  	Action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+industrial processes                                            	class     	CreativeWork   	undetermined                   	adjective            	portions
+smelting                                                        	class     	Action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+fertilizers                                                     	class     	Product        	undetermined                   	MODIFIERS            	NOT_VAGUE
+cement manufacturing                                            	instance  	Action         	mass_noun                      	noun                 	NOT_VAGUE
+The human cause of climate change                               	instance  	Intangible     	determined                     	adjective preposition	NOT_VAGUE
+any scientific body of national or international standing       	instance  	Organization   	mass_noun                      	adjective preposition	NOT_VAGUE
+Temperature rise                                                	instance  	Event          	undetermined                   	noun                 	degree
+climate feedbacks                                               	class     	Intangible     	undetermined                   	noun                 	NOT_VAGUE
+loss of sunlight-reflecting snow and ice cover                  	instance  	Event          	mass_noun                      	preposition          	degree
+increased water vapour                                          	instance  	BioChemEntity  	mass_noun                      	noun adjective       	NOT_VAGUE
+a greenhouse gas                                                	instance  	BioChemEntity  	undetermined                   	noun                 	NOT_VAGUE
+changes                                                         	class     	Event          	undetermined                   	MODIFIERS            	subjective
+land and ocean carbon sinks                                     	class     	Place          	undetermined                   	noun                 	NOT_VAGUE
+land surfaces                                                   	class     	Place          	undetermined                   	noun                 	NOT_VAGUE
+ocean surfaces                                                  	class     	Place          	undetermined                   	noun                 	NOT_VAGUE
+deserts                                                         	class     	Place          	undetermined                   	MODIFIERS            	NOT_VAGUE
+heat waves                                                      	class     	Event          	undetermined                   	noun                 	NOT_VAGUE
+wildfires                                                       	class     	Event          	undetermined                   	MODIFIERS            	NOT_VAGUE
+Surface temperature rise                                        	instance  	Event          	mass_noun                      	noun                 	NOT_VAGUE
+the Arctic                                                      	instance  	Place          	determined named               	MODIFIERS            	NOT_VAGUE
+permafrost                                                      	instance  	Place          	mass_noun                      	MODIFIERS            	NOT_VAGUE
+more greenhouse gases                                           	class     	BioChemEntity  	numbered                       	noun                 	portions
+the retreat of glaciers and sea ice                             	class     	Event          	determined                     	preposition          	degree
+the land and ocean                                              	instance  	Place          	determined mass_noun           	MODIFIERS            	NOT_VAGUE
+more heat                                                       	instance  	Intangible     	mass_noun numbered             	MODIFIERS            	degree
+Increasing atmospheric energy                                   	instance  	Intangible     	mass_noun                      	adjective            	degree
+rates of evaporation                                            	class     	Intangible     	mass_noun                      	preposition          	degree
+more intense storms                                             	class     	Event          	undetermined numbered          	adjective            	subjective
+weather extremes                                                	class     	Event          	undetermined                   	noun                 	subjective
+infrastructure and agriculture                                  	instance  	Intangible     	mass_noun                      	MODIFIERS            	NOT_VAGUE
+Rising temperatures                                             	class     	Event          	undetermined                   	adjective            	NOT_VAGUE
+limiting ocean productivity                                     	instance  	Intangible     	mass_noun                      	noun                 	subjective
+fish stocks in most parts of the globe                          	class     	Taxon          	undetermined                   	noun preposition     	degree portions
+anticipated effects from undernutrition                         	class     	Intangible     	undetermined                   	adjective preposition	portions
+heat stress                                                     	instance  	Intangible     	mass_noun                      	noun                 	NOT_VAGUE
+disease                                                         	instance  	Intangible     	mass_noun                      	MODIFIERS            	NOT_VAGUE
+the World Health Organization                                   	instance  	Organization   	determined named               	MODIFIERS            	NOT_VAGUE
+climate change                                                  	instance  	Event          	named mass_noun                	noun                 	NOT_VAGUE
+the greatest threat                                             	instance  	Intangible     	determined                     	adjective            	subjective
+global health in the 21st century                               	instance  	Intangible     	mass_noun                      	adjective preposition	NOT_VAGUE
+Environmental effects                                           	class     	Intangible     	undetermined                   	adjective            	portions
+the extinction                                                  	instance  	Event          	determined mass_noun           	MODIFIERS            	NOT_VAGUE
+(the) relocation of many species                                	class     	Event          	numbered mass_noun             	preposition          	degree portions
+their ecosystems                                                	class     	Intangible     	qualified_anaphora             	MODIFIERS            	NOT_VAGUE
+coral reefs                                                     	class     	Taxon          	undetermined                   	noun                 	NOT_VAGUE
+mountains                                                       	class     	Place          	undetermined                   	MODIFIERS            	NOT_VAGUE
+the Artic                                                       	instance  	Place          	determined named               	MODIFIERS            	NOT_VAGUE
+efforts                                                         	class     	Action         	undetermined                   	MODIFIERS            	NOT_VAGUE
+some effects                                                    	class     	Intangible     	numbered                       	MODIFIERS            	NOT_VAGUE
+centuries                                                       	class     	Event          	undetermined                   	MODIFIERS            	portions
+rising sea levels                                               	class     	Intangible     	undetermined                   	adjective            	degree
+rising ocean temperatures                                       	class     	Intangible     	undetermined                   	adjective noun       	degree
+ocean acidification                                             	instance  	Event          	mass_noun                      	noun                 	degree
+Many of these effects                                           	class     	Intangible     	numbered anaphora              	MODIFIERS            	degree portions
+the current level of warming                                    	instance  	Intangible     	determined                     	adjective preposition	NOT_VAGUE
+The Intergovernmental Panel on Climate Change                   	instance  	Organization   	determined named               	preposition          	NOT_VAGUE
+a series of reports                                             	class     	CreativeWork   	undetermined                   	preposition          	NOT_VAGUE
+significant increases in these impacts                          	class     	Intangible     	undetermined qualified_anaphora	adjective preposition	portions
+warming                                                         	instance  	Event          	mass_noun                      	MODIFIERS            	subjective
+the Paris Agreement                                             	instance  	CreativeWork   	determined named               	MODIFIERS            	NOT_VAGUE
+nations                                                         	class     	Organization   	undetermined                   	MODIFIERS            	NOT_VAGUE
+warming                                                         	instance  	Event          	mass_noun                      	MODIFIERS            	subjective
+greenhouse gas emissions                                        	class     	BioChemEntity  	undetermined                   	noun                 	NOT_VAGUE
+those pledges                                                   	class     	CreativeWork   	anaphora                       	MODIFIERS            	NOT_VAGUE
+global warming                                                  	instance  	Event          	undetermined                   	adjective            	subjective
+the end of the century                                          	instance  	Event          	determined                     	preposition          	NOT_VAGUE
+current policies                                                	class     	CreativeWork   	undetermined                   	adjective            	portions
+warming                                                         	instance  	Event          	mass_noun                      	MODIFIERS            	subjective
+warming                                                         	instance  	Event          	mass_noun                      	MODIFIERS            	subjective
+emissions                                                       	class     	BioChemEntity  	undetermined                   	MODIFIERS            	NOT_VAGUE
+near-zero emissions                                             	class     	BioChemEntity  	undetermined                   	adjective            	degree
+Mitigation efforts                                              	class     	Action         	undetermined                   	noun                 	portions subjective
+the development and deployment of low-carbon energy technologies	class     	Action         	determined mass_noun           	preposition          	subjective portions
+energy efficiency                                               	instance  	Intangible     	mass_noun                      	noun                 	subjective
+phase-out of coal                                               	instance  	Action         	mass_noun                      	preposition          	NOT_VAGUE
+reforestation                                                   	instance  	Action         	mass_noun                      	MODIFIERS            	NOT_VAGUE
+forest preservation                                             	instance  	Action         	mass_noun                      	noun                 	NOT_VAGUE
+Climate engineering techniques                                  	class     	CreativeWork   	undetermined                   	noun                 	portions
+solar geoengineering                                            	instance  	Action         	mass_noun                      	noun                 	NOT_VAGUE
+carbon dioxide removal                                          	instance  	Action         	mass_noun                      	noun                 	NOT_VAGUE
+substantial limitations                                         	class     	Intangible     	undetermined                   	adjective            	subjective
+large uncertainties                                             	class     	Intangible     	undetermined                   	adjective            	subjective
+Societies                                                       	class     	Organization   	undetermined                   	MODIFIERS            	NOT_VAGUE
+current and future global-warming effects                       	class     	Intangible     	undetermined                   	adjective            	subjective
+improved coastline protection                                   	instance  	Action         	mass_noun                      	noun adjective       	subjective
+better disaster management                                      	instance  	Action         	mass_noun                      	adjective noun       	subjective
+the development of more resistant crops                         	class     	Action         	determined mass_noun           	adjective preposition	degree

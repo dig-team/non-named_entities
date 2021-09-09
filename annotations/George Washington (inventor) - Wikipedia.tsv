@@ -1,0 +1,34 @@
+expression                                      	plurality 	Yago4          	manifestation                    	modifiers       	vagueness
+George Constant Louis Washington                	instance  	Person         	named                            	MODIFIERS       	NOT_VAGUE
+a Belgian-born American inventor and businessman	instance  	Person         	undetermined contains_named      	adjective       	NOT_VAGUE
+his invention of an early instant coffee process	instance  	CreativeWork   	qualified_anaphora               	preposition     	NOT_VAGUE
+the company                                     	instance  	Organization   	determined                       	MODIFIERS       	NOT_VAGUE
+the G. Washington Coffee Company                	instance  	Organization   	determined named                 	MODIFIERS       	NOT_VAGUE
+An emigrant from his native Belgium             	instance  	Person         	undetermined contains_named      	preposition     	NOT_VAGUE
+the New York area                               	instance  	Place          	determined contains_named        	MODIFIERS       	NOT_VAGUE
+several technical fields                        	class     	CreativeWork   	numbered                         	adjective       	degree portions
+instant coffee manufacture                      	instance  	Action         	undetermined                     	adjective noun  	NOT_VAGUE
+a sojourn in Central America                    	instance  	Event          	undetermined                     	preposition     	not_vague
+his coffee                                      	instance  	Product        	qualified_anaphora               	MODIFIERS       	NOT_VAGUE
+a company                                       	instance  	Organization   	undetermined                     	MODIFIERS       	NOT_VAGUE
+New York                                        	instance  	Place          	named                            	MODIFIERS       	NOT_VAGUE
+New Jersey                                      	instance  	Place          	named                            	MODIFIERS       	NOT_VAGUE
+his company                                     	instance  	Organization   	qualified_anaphora               	MODIFIERS       	NOT_VAGUE
+an important military supplier                  	instance  	Organization   	undetermined                     	adjective noun  	NOT_VAGUE
+World War I                                     	instance  	event          	named                            	modifiers       	not_vague
+The company's products                          	class     	Product        	determined                       	MODIFIERS       	NOT_VAGUE
+New York newspapers                             	class     	CreativeWork   	undetermined contains_named      	noun            	portions
+the radio                                       	instance  	CreativeWork   	determined                       	MODIFIERS       	portions
+The success of his company                      	instance  	Intangible     	determined                       	preposition     	subjective
+a mansion in Brooklyn                           	instance  	Place          	undetermined                     	preposition     	NOT_VAGUE
+a country estate in New Jersey                  	instance  	Place          	undetermined                     	noun preposition	NOT_VAGUE
+that same year                                  	instance  	Event          	anaphora                         	MODIFIERS       	NOT_VAGUE
+a dispute with the tax authorities              	class     	Event          	undetermined                     	preposition     	NOT_VAGUE
+Washington                                      	instance  	Person         	named                            	MODIFIERS       	NOT_VAGUE
+three children                                  	class     	Person         	numbered                         	MODIFIERS       	NOT_VAGUE
+Washington's company                            	instance  	Organization   	anaphora contains_named          	MODIFIERS       	NOT_VAGUE
+American Home Products                          	instance  	Organization   	named                            	MODIFIERS       	NOT_VAGUE
+his death                                       	instance  	Event          	qualified_anaphora               	MODIFIERS       	NOT_VAGUE
+the coffee brand                                	instance  	CreativeWork   	determined anaphora              	noun            	NOT_VAGUE
+Washington's name                               	instance  	CreativeWork   	contains_named                  	MODIFIERS       	NOT_VAGUE
+the product G. Washington's Seasoning & Broth   	instance  	product        	determined named                 	modifiers       	not_vague

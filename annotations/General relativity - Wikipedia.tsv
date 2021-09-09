@@ -1,0 +1,72 @@
+expression                                                            	plurality 	Yago4          	manifestation                    	modifiers            	vagueness
+General relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the general theory of relativity                                      	instance  	CreativeWork   	determined                       	adjective preposition	NOT_VAGUE
+the geometric theory of gravitation                                   	instance  	CreativeWork   	determined                       	adjective preposition	NOT_VAGUE
+Albert Einstein                                                       	instance  	person         	named                            	MODIFIERS            	NOT_VAGUE
+the current description of gravitation in modern physics              	instance  	CreativeWork   	determined                       	adjective preposition	NOT_VAGUE
+special relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+Newton's law of universal gravitation                                 	class     	CreativeWork   	named                            	adjective preposition	NOT_VAGUE
+a unified description of gravity                                      	instance  	CreativeWork   	undetermined                     	adjective preposition	NOT_VAGUE
+a geometric property of space and time                                	instance  	Intangible     	undetermined                     	adjective preposition	NOT_VAGUE
+four-dimensional spacetime                                            	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the curvature of spacetime                                            	instance  	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+the energy                                                            	instance  	intangible     	determined mass_noun             	MODIFIERS            	NOT_VAGUE
+momentum                                                              	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+matter                                                                	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+radiation                                                             	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+The relation                                                          	instance  	intangible     	determined                       	MODIFIERS            	NOT_VAGUE
+the Einstein field equations                                          	class     	CreativeWork   	determined contains_named        	noun                 	NOT_VAGUE
+a system of partial differential equations                            	instance  	CreativeWork   	undetermined                     	adjective preposition	NOT_VAGUE
+Some predictions of general relativity                                	class     	intangible     	numbered                         	preposition          	degree portions
+classical physics                                                     	class     	CreativeWork   	mass_noun                        	adjective            	portions
+the passage of time                                                   	instance  	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+the geometry of space                                                 	instance  	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+the motion of bodies                                                  	class     	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+free fall                                                             	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the propagation of light                                              	instance  	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+Examples of such differences                                          	class     	intangible     	undetermined                     	preposition          	portions
+gravitational time dilation                                           	instance  	intangible     	mass_noun                        	noun adjective       	NOT_VAGUE
+gravitational lensing                                                 	instance  	intangible     	mass_noun                        	adjective            	NOT_VAGUE
+the gravitational redshift of light                                   	instance  	intangible     	determined mass_noun             	adjective preposition	NOT_VAGUE
+the gravitational time delay                                          	instance  	intangible     	determined mass_noun             	noun adjective       	NOT_VAGUE
+singularities/black holes                                             	class     	intangible     	undetermined                     	MODIFIERS            	NOT_VAGUE
+The predictions of general relativity in relation to classical physics	class     	intangible     	determined                       	preposition          	portions
+all observations and experiments                                      	class     	Action         	numbered                         	MODIFIERS            	NOT_VAGUE
+date                                                                  	instance  	intangible     	undetermined                     	MODIFIERS            	NOT_VAGUE
+the only relativistic theory of gravity                               	instance  	CreativeWork   	determined                       	adjective preposition	NOT_VAGUE
+the simplest theory                                                   	instance  	CreativeWork   	determined                       	adjective            	subjective
+experimental data                                                     	class     	intangible     	mass_noun                        	adjective            	portions
+unanswered questions                                                  	class     	CreativeWork   	undetermined                     	adjective            	portions
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the laws of quantum physics                                           	class     	CreativeWork   	determined                       	preposition          	NOT_VAGUE
+complete and self-consistent theory of quantum gravity                	instance  	creativework   	undetermined                     	adjective preposition	NOT_VAGUE
+gravity                                                               	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+the three non-gravitational forces                                    	class     	intangible     	determined numbered              	adjective            	not_vague
+strong nuclear, weak nuclear, and electromagnetic force               	class     	intangible     	undetermined                     	adjective            	not_vague
+Einstein's theory                                                     	instance  	creativework   	contains_named                  	MODIFIERS            	NOT_VAGUE
+important astrophysical implications                                  	class     	intangible     	undetermined                     	adjective            	subjective
+the existence of black holes—regions of space                         	instance  	intangible     	determined mass_noun             	preposition          	NOT_VAGUE
+space                                                                 	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+time                                                                  	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+nothing                                                               	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+light                                                                 	instance  	intangible     	mass_noun                        	MODIFIERS            	NOT_VAGUE
+an end-state for massive stars                                        	instance  	intangible     	undetermined                     	preposition          	degree
+ample evidence that the intense radiation                             	class     	intangible     	mass_noun                        	adjective preposition	degree portions
+certain kinds of astronomical objects                                 	class     	Product        	undetermined                     	adjective preposition	portions
+black holes                                                           	class     	intangible     	undetermined                     	adjective            	NOT_VAGUE
+microquasars                                                          	instance  	Product        	undetermined                     	MODIFIERS            	NOT_VAGUE
+active galactic nuclei                                                	instance  	Product        	undetermined                     	adjective            	NOT_VAGUE
+the presence of stellar black holes and supermassive black holes      	instance  	intangible     	determined                       	preposition          	NOT_VAGUE
+The bending of light by gravity                                       	instance  	intangible     	determined                       	preposition          	NOT_VAGUE
+the phenomenon of gravitational lensing                               	instance  	intangible     	determined                       	preposition          	NOT_VAGUE
+multiple images of the same distant astronomical object               	class     	intangible     	numbered                         	preposition          	degree portions
+the sky                                                               	instance  	intangible     	determined mass_noun             	MODIFIERS            	NOT_VAGUE
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the existence of gravitational waves                                  	instance  	intangible     	determined                       	preposition          	NOT_VAGUE
+the physics collaboration LIGO                                        	instance  	Organization   	determined named                 	noun                 	NOT_VAGUE
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the basis of current cosmological models                              	class     	CreativeWork   	determined                       	preposition          	NOT_VAGUE
+a consistently expanding universe                                     	instance  	intangible     	undetermined                     	adjective            	NOT_VAGUE
+a theory of extraordinary beauty                                      	instance  	creativework   	undetermined                     	preposition          	subjective
+general relativity                                                    	instance  	CreativeWork   	mass_noun                        	adjective            	NOT_VAGUE
+the most beautiful of all existing physical theories                  	instance  	creativework   	determined                       	adjective preposition	subjective

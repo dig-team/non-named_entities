@@ -1,0 +1,51 @@
+expression                                                	plurality 	Yago4          	manifestation                        	modifiers                 	vagueness
+The National Flag of Canada                               	instance  	CreativeWork   	determined named                     	preposition               	NOT_VAGUE
+the Canadian flag                                         	instance  	CreativeWork   	determined anaphora                  	adjective                 	NOT_VAGUE
+the Maple Leaf                                            	instance  	CreativeWork   	determined named                     	MODIFIERS                 	NOT_VAGUE
+l'Unifolié                                                	instance  	CreativeWork   	named                                	MODIFIERS                 	NOT_VAGUE
+a red field with a white square at its centre             	instance  	CreativeWork   	undetermined                         	adjective preposition     	NOT_VAGUE
+the ratio of 1:2:1                                        	instance  	intangible     	determined numbered                  	preposition               	not_vague
+the middle                                                	instance  	Intangible     	determined                           	MODIFIERS                 	NOT_VAGUE
+a stylized, red, 11-pointed maple leaf                    	instance  	CreativeWork   	undetermined                         	adjective noun            	NOT_VAGUE
+the centre                                                	instance  	Intangible     	determined                           	MODIFIERS                 	NOT_VAGUE
+the first flag                                            	instance  	CreativeWork   	determined                           	adjective                 	NOT_VAGUE
+both houses of Parliament                                 	class     	Organization   	named contains_named                 	preposition               	NOT_VAGUE
+the Canadian monarch                                      	instance  	Person         	determined                           	adjective                 	NOT_VAGUE
+the country's official national flag                      	instance  	CreativeWork   	determined                           	adjective                 	NOT_VAGUE
+Prime Minister Lester B. Pearson                          	instance  	Person         	named                                	MODIFIERS                 	NOT_VAGUE
+a committee                                               	instance  	Person         	undetermined                         	MODIFIERS                 	NOT_VAGUE
+the ongoing issue of the lack of an official Canadian flag	instance  	Intangible     	determined                           	adjective preposition     	NOT_VAGUE
+a serious debate about a flag change                      	instance  	Intangible     	undetermined                         	adjective preposition noun	subjective
+the Union Flag                                            	instance  	CreativeWork   	determined named                     	MODIFIERS                 	NOT_VAGUE
+three choices                                             	class     	CreativeWork   	numbered                             	MODIFIERS                 	NOT_VAGUE
+the maple leaf design by George Stanley                   	instance  	CreativeWork   	determined                           	adjective preposition noun	NOT_VAGUE
+the flag of the Royal Military College of Canada          	instance  	CreativeWork   	determined contains_named            	preposition               	NOT_VAGUE
+The flag                                                  	instance  	CreativeWork   	determined anaphora                  	MODIFIERS                 	NOT_VAGUE
+its first official appearance                             	instance  	Event          	qualified_anaphora                   	adjective                 	NOT_VAGUE
+National Flag of Canada Day                               	instance  	Event          	named                                	preposition               	NOT_VAGUE
+The Canadian Red Ensign                                   	instance  	CreativeWork   	determined named                     	MODIFIERS                 	NOT_VAGUE
+unofficial use                                            	instance  	Intangible     	undetermined mass_noun               	adjective                 	NOT_VAGUE
+a 1945 Order in Council                                   	instance  	CreativeWork   	undetermined named                   	preposition               	NOT_VAGUE
+use                                                       	instance  	Action         	undetermined                         	preposition               	NOT_VAGUE
+a distinctive Canadian flag                               	instance  	CreativeWork   	undetermined                         	adjective                 	NOT_VAGUE
+the Royal Union Flag                                      	instance  	CreativeWork   	determined named                     	MODIFIERS                 	NOT_VAGUE
+an official flag                                          	instance  	CreativeWork   	undetermined                         	adjective                 	NOT_VAGUE
+Canada                                                    	instance  	Organization   	named                                	MODIFIERS                 	NOT_VAGUE
+Canada's allegiance to the monarch                        	instance  	Intangible     	determined contains_named            	MODIFIERS                 	NOT_VAGUE
+membership in the Commonwealth of Nations                 	instance  	Intangible     	undetermined mass_noun contains_named	preposition               	NOT_VAGUE
+no law                                                    	instance  	CreativeWork   	numbered                             	MODIFIERS                 	NOT_VAGUE
+the national flag                                         	instance  	CreativeWork   	determined anaphora                  	adjective                 	NOT_VAGUE
+conventions and protocols                                 	class     	CreativeWork   	undetermined                         	MODIFIERS                 	portions
+its place in the order of precedence of flags             	class     	Intangible     	qualified_anaphora                   	preposition               	NOT_VAGUE
+primacy over the aforementioned and most other flags      	instance  	intangible     	numbered                             	preposition               	degree portions
+Many different flags                                      	class     	CreativeWork   	numbered                             	adjective                 	degree portions
+Canadian officials                                        	class     	Organization   	undetermined                         	adjective                 	portions
+government bodies                                         	class     	Organization   	undetermined                         	noun                      	portions
+military forces                                           	class     	Organization   	undetermined                         	adjective                 	portions
+the maple leaf motif                                      	instance  	CreativeWork   	determined                           	preposition noun          	NOT_VAGUE
+some fashion                                              	instance  	intangible     	undetermined                         	MODIFIERS                 	subjective
+the Canadian flag                                         	instance  	CreativeWork   	determined anaphora                  	adjective                 	NOT_Vague
+the canton                                                	instance  	CreativeWork   	determined                           	MODIFIERS                 	NOT_VAGUE
+including maple leaves in the design                      	class     	CreativeWork   	mass_noun                            	preposition               	NOT_VAGUE
+the Canadian flag                                         	instance  	CreativeWork   	determined anaphora                  	adjective                 	NOT_VAGUE
+the government's wordmark                                 	instance  	CreativeWork   	determined mass_noun                 	MODIFIERS                 	NOT_VAGUE

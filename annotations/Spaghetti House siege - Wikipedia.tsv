@@ -1,0 +1,34 @@
+expression                                                  	plurality 	Yago4          	manifestation              	modifiers                 	vagueness
+The Spaghetti House siege                                   	instance  	Event          	determined contains_named  	MODIFIERS                 	NOT_VAGUE
+between 28 September and 3 October 1975                     	instance  	Event          	numbered                   	MODIFIERS                 	NOT_VAGUE
+An attempted robbery of the Spaghetti House restaurant      	instance  	Action         	undetermined contains_named	adjective preposition     	NOT_VAGUE
+Knightsbridge, London                                       	instance  	Place          	named                      	MODIFIERS                 	NOT_VAGUE
+the police                                                  	instance  	Organization   	determined                 	MODIFIERS                 	NOT_VAGUE
+the scene                                                   	instance  	Place          	determined                 	MODIFIERS                 	NOT_VAGUE
+The three robbers                                           	class     	Person         	determined numbered        	MODIFIERS                 	NOT_VAGUE
+the staff                                                   	instance  	Person         	determined                 	MODIFIERS                 	NOT_VAGUE
+a storeroom                                                 	instance  	Place          	undetermined               	MODIFIERS                 	NOT_VAGUE
+the hostages                                                	class     	Person         	determined                 	MODIFIERS                 	NOT_VAGUE
+six days                                                    	class     	Event          	numbered                   	MODIFIERS                 	NOT_VAGUE
+the gunmen                                                  	class     	Person         	determined                 	MODIFIERS                 	NOT_VAGUE
+the ringleader                                              	instance  	Person         	determined anaphora        	MODIFIERS                 	NOT_VAGUE
+Franklin Davies                                             	class     	Person         	named                      	MODIFIERS                 	NOT_VAGUE
+the stomach                                                 	instance  	MedicalEntity  	determined                 	MODIFIERS                 	NOT_VAGUE
+their accomplices                                           	class     	Person         	qualified_anaphora         	MODIFIERS                 	NOT_VAGUE
+The three robbers                                           	class     	Person         	determined numbered        	MODIFIERS                 	NOT_VAGUE
+black liberation organisations                              	class     	Organization   	undetermined               	adjective noun            	portions
+the earliest stages of the siege                            	class     	Event          	determined                 	adjective preposition     	degree portions
+their subsequent prison sentences                           	class     	Intangible     	qualified_anaphora         	adjective noun            	portions
+political reasons                                           	class     	Intangible     	undetermined               	adjective                 	portions
+The police                                                  	instance  	Organization   	determined mass_noun       	MODIFIERS                 	NOT_VAGUE
+a criminal act                                              	instance  	Action         	undetermined               	adjective                 	NOT_VAGUE
+a political one                                             	instance  	Action         	undetermined               	adjective                 	NOT_VAGUE
+The police                                                  	instance  	Organization   	determined                 	MODIFIERS                 	NOT_VAGUE
+fibre optic camera technology for live surveillance         	instance  	CreativeWork   	mass_noun                  	adjective preposition noun	NOT_VAGUE
+the actions                                                 	class     	Action         	determined                 	MODIFIERS                 	NOT_VAGUE
+conversations of the gunmen from the audio and visual output	class     	CreativeWork   	undetermined               	preposition               	portions
+The feed                                                    	instance  	CreativeWork   	determined                 	MODIFIERS                 	NOT_VAGUE
+a forensic psychiatrist                                     	instance  	Person         	undetermined               	adjective                 	NOT_VAGUE
+police                                                      	instance  	Organization   	undetermined               	preposition               	NOT_VAGUE
+the state of the men's minds                                	class     	Intangible     	determined                 	preposition               	subjective
+the ongoing negotiations                                    	class     	CreativeWork   	determined                 	adjective                 	NOT_VAGUE

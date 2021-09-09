@@ -1,0 +1,61 @@
+expression                                                                           	plurality 	Yago4          	manifestation              	modifiers            	vagueness
+Tulip mania                                                                          	instance  	Event          	named                      	MODIFIERS            	NOT_VAGUE
+a period during the Dutch Golden Age                                                 	instance  	Event          	undetermined contains_named	preposition          	NOT_VAGUE
+contract prices for some bulbs                                                       	class     	CreativeWork   	undetermined               	preposition noun     	portions
+the recently introduced and fashionable tulip                                        	instance  	Taxon          	determined                 	adjective            	degree
+extraordinarily high levels                                                          	class     	Intangible     	undetermined               	adjective            	degree portions
+the first recorded speculative bubble in history                                     	instance  	Event          	determined                 	adjective preposition	NOT_VAGUE
+asset bubble                                                                         	instance  	Event          	undetermined               	MODIFIERS            	NOT_VAGUE
+many ways                                                                            	class     	Intangible     	numbered                   	adjective            	degree portions
+a hitherto unknown socio-economic phenomenon                                         	instance  	Intangible     	undetermined               	adjective            	not_vague
+a significant economic crisis                                                        	instance  	Intangible     	undetermined               	adjective            	subjective
+no critical influence on the prosperity of the Dutch Republic                        	instance  	Intangible     	contains_named             	adjective preposition	subjective
+the world's leading economic and financial power in the 17th century                 	instance  	Organization   	determined                 	adjective preposition	NOT_VAGUE
+the highest per capita income in the world from about 1600 to 1720                   	instance  	Intangible     	determined mass_noun       	adjective preposition	not_vague
+The term tulip mania                                                                 	instance  	CreativeWork   	determined                 	noun                 	NOT_VAGUE
+any large economic bubble                                                            	instance  	Intangible     	undetermined               	adjective            	degree
+asset prices                                                                         	class     	Intangible     	undetermined               	noun                 	portions
+intrinsic values                                                                     	class     	Intangible     	undetermined               	adjective            	portions
+Europe                                                                               	instance  	Place          	named                      	MODIFIERS            	NOT_VAGUE
+formal futures markets                                                               	class     	Intangible     	undetermined               	adjective noun       	NOT_VAGUE
+the Dutch Republic                                                                   	instance  	Organization   	determined named           	preposition          	NOT_VAGUE
+the tulip market                                                                     	instance  	Intangible     	determined                 	noun                 	NOT_VAGUE
+the height of tulip mania                                                            	instance  	Intangible     	determined                 	preposition noun     	degree
+the peak of tulip mania                                                              	instance  	Intangible     	determined                 	preposition noun     	not_vague
+some single tulip bulbs                                                              	instance  	Taxon          	numbered                   	adjective noun       	portions
+10 times the annual income of a skilled craftsworker                                 	class     	Intangible     	numbered                   	adjective preposition	subjective
+Research                                                                             	instance  	CreativeWork   	undetermined               	MODIFIERS            	portions
+the limited economic data                                                            	class     	CreativeWork   	determined mass_noun       	adjective            	degree portions
+biased and speculative sources                                                       	class     	CreativeWork   	undetermined               	adjective            	subjective portions
+Some modern economists                                                               	class     	Person         	numbered                   	adjective            	degree portions
+rational explanations                                                                	class     	CreativeWork   	undetermined               	adjective            	subjective portions
+a speculative mania                                                                  	instance  	Intangible     	undetermined               	adjective            	NOT_VAGUE
+the rise and fall in prices                                                          	class     	Intangible     	determined                 	preposition          	degree
+other flowers                                                                        	class     	Taxon          	undetermined               	adjective            	portions
+the hyacinth                                                                         	instance  	Taxon          	determined                 	MODIFIERS            	NOT_VAGUE
+high initial prices                                                                  	class     	Intangible     	undetermined               	adjective preposition	degree portions
+the time of their introduction                                                       	instance  	Intangible     	determined                 	adjective preposition	NOT_VAGUE
+the plants                                                                           	class     	Taxon          	determined                 	MODIFIERS            	portions
+The high asset prices                                                                	class     	Intangible     	determined                 	adjective noun       	degree portions
+expectations of a parliamentary decree                                               	class     	Intangible     	undetermined               	preposition          	portions
+a small cost                                                                         	instance  	Intangible     	undetermined               	adjective            	degree
+the risk                                                                             	instance  	Intangible     	determined                 	MODIFIERS            	NOT_VAGUE
+buyers                                                                               	class     	Person         	undetermined               	MODIFIERS            	NOT_VAGUE
+The 1637 event                                                                       	instance  	Event          	determined anaphora        	MODIFIERS            	NOT_VAGUE
+popular attention                                                                    	instance  	Intangible     	mass_noun                  	adjective            	subjective
+the publication of the book Extraordinary Popular Delusions and the Madness of Crowds	instance  	Event          	determined contains_named  	preposition          	NOT_VAGUE
+Scottish journalist Charles Mackay                                                   	instance  	Person         	named                      	adjective            	NOT_VAGUE
+one point                                                                            	instance  	Intangible     	numbered                   	MODIFIERS            	not_vague
+12 acres of land                                                                     	class     	Place          	numbered                   	preposition          	NOT_VAGUE
+a Semper Augustus bulb                                                               	instance  	Taxon          	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+Mackay                                                                               	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+many investors                                                                       	class     	Person         	numbered                   	adjective            	degree portions
+the fall in prices                                                                   	class     	Event          	determined                 	preposition          	NOT_VAGUE
+Dutch commerce                                                                       	instance  	Organization   	mass_noun                  	MODIFIERS            	NOT_VAGUE
+a severe shock                                                                       	instance  	Intangible     	undetermined               	adjective            	subjective
+Mackay's book                                                                        	instance  	CreativeWork   	anaphora                   	MODIFIERS            	NOT_VAGUE
+his account                                                                          	instance  	Intangible     	qualified_anaphora         	MODIFIERS            	NOT_VAGUE
+Many modern scholars                                                                 	class     	Person         	numbered                   	adjective            	degree portions
+the mania                                                                            	instance  	Event          	determined anaphora        	MODIFIERS            	NOT_VAGUE
+not enough price data                                                                	class     	CreativeWork   	mass_noun                  	adjective noun       	degree
+a tulip-bulb bubble                                                                  	instance  	Event          	undetermined               	MODIFIERS            	NOT_VAGUE

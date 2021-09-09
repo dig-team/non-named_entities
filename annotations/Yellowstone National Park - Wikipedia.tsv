@@ -1,0 +1,101 @@
+expression                                                                          	plurality 	Yago4          	manifestation                         	modifiers            	vagueness
+Yellowstone National Park                                                           	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+an American national park                                                           	instance  	place          	undetermined                          	adjective            	NOT_VAGUE
+the western United States                                                           	instance  	place          	determined named                      	adjective            	NOT_VAGUE
+the northwest corner of Wyoming                                                     	instance  	place          	determined contains_named             	preposition          	NOT_VAGUE
+Montana                                                                             	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+Idaho                                                                               	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+the U.S. Congress                                                                   	instance  	Organization   	determined named                      	MODIFIERS            	NOT_VAGUE
+law                                                                                 	instance  	creativework   	mass_noun                             	modifiers            	NOT_VAGUE
+President Ulysses S. Grant                                                          	instance  	Person         	named                                 	preposition          	NOT_VAGUE
+Yellowstone                                                                         	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+the first national park in the U.S                                                  	instance  	place          	determined contains_named             	adjective preposition	NOT_VAGUE
+the first national park in the world                                                	instance  	place          	determined                            	adjective preposition	NOT_VAGUE
+The park                                                                            	instance  	place          	determined anaphora                   	MODIFIERS            	NOT_VAGUE
+its wildlife                                                                        	instance  	place          	qualified_anaphora mass_noun          	MODIFIERS            	NOT_VAGUE
+its many geothermal features                                                        	class     	intangible     	determined numbered qualified_anaphora	adjective            	degree portions
+Old Faithful geyser                                                                 	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+one of its most popular                                                             	instance  	intangible     	qualified_anaphora                    	adjective preposition	portions subjective
+many types of biomes                                                                	class     	intangible     	undetermined numbered                 	preposition          	portions degree
+the subalpine forest                                                                	instance  	taxon          	determined                            	MODIFIERS            	NOT_VAGUE
+part of the South Central Rockies forests ecoregion                                 	instance  	place          	mass_noun contains_named              	preposition          	subjective
+Native Americans                                                                    	class     	person         	undetermined named                    	modifiers            	portions
+the Yellowstone region                                                              	instance  	place          	determined contains_named             	MODIFIERS            	NOT_VAGUE
+at least 11,000 years                                                               	class     	intangible     	numbered                              	MODIFIERS            	degree
+visits by mountain men                                                              	class     	action         	undetermined                          	preposition          	NOT_VAGUE
+the early-to-mid-19th century                                                       	instance  	event          	determined                            	adjective            	NOT_VAGUE
+organized exploration                                                               	instance  	action         	mass_noun                             	adjective            	NOT_VAGUE
+the late 1860s                                                                      	class     	event          	determined                            	adjective            	degree
+Management and control of the park                                                  	instance  	action         	undetermined mass_noun                	preposition          	NOT_VAGUE
+the jurisdiction of the United States Department of the Interior                    	instance  	organization   	determined mass_noun contains_named   	preposition          	NOT_VAGUE
+the first Secretary of the Interior                                                 	instance  	person         	determined named                      	adjective preposition	NOT_VAGUE
+the park                                                                            	instance  	place          	determined anaphora                   	MODIFIERS            	NOT_VAGUE
+Columbus Delano                                                                     	instance  	person         	named                                 	adjective preposition	NOT_VAGUE
+the U.S. Army                                                                       	instance  	organization   	determined named                      	MODIFIERS            	NOT_VAGUE
+management of Yellowstone                                                           	instance  	action         	mass_noun contains_named              	preposition          	NOT_VAGUE
+a 30-year period                                                                    	instance  	event          	undetermined                          	adjective            	NOT_VAGUE
+administration of the park                                                          	instance  	action         	mass_noun                             	preposition          	NOT_VAGUE
+the National Park Service                                                           	instance  	organization   	determined named                      	MODIFIERS            	NOT_VAGUE
+the previous year                                                                   	instance  	event          	determined                            	adjective            	NOT_VAGUE
+Hundreds of structures                                                              	class     	creativework   	undetermined                          	preposition          	portions
+their architectural and historical significance                                     	instance  	intangible     	mass_noun                             	adjective            	subjective
+researchers                                                                         	class     	person         	undetermined                          	MODIFIERS            	portions
+more than a thousand archaeological sites                                           	class     	place          	undetermined numbered                 	adjective            	portions
+Yellowstone National Park                                                           	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+an area of 3,468.4 sq mi (8,983 km2)                                                	instance  	intangible     	undetermined numbered                 	preposition          	NOT_VAGUE
+lakes                                                                               	class     	place          	undetermined                          	MODIFIERS            	portions
+canyons                                                                             	class     	place          	undetermined                          	MODIFIERS            	portions
+rivers                                                                              	class     	place          	undetermined                          	MODIFIERS            	portions
+mountain ranges                                                                     	class     	place          	undetermined                          	MODIFIERS            	portions
+Yellowstone Lake                                                                    	instance  	place          	undetermined                          	MODIFIERS            	NOT_VAGUE
+one of the largest high-elevation lakes in North America                            	instance  	place          	undetermined contains_named           	preposition adjective	degree portions
+the Yellowstone Caldera                                                             	instance  	place          	determined named                      	MODIFIERS            	NOT_VAGUE
+the largest supervolcano on the continent                                           	instance  	place          	determined anaphora                   	preposition adjective	NOT_VAGUE
+The caldera                                                                         	instance  	place          	determined                            	MODIFIERS            	NOT_VAGUE
+a dormant volcano                                                                   	class     	place          	undetermined                          	adjective            	NOT_VAGUE
+tremendous force                                                                    	instance  	intangible     	undetermined                          	adjective            	subjective
+several times                                                                       	class     	intangible     	determined numbered                   	adjective            	degree portions
+the last two million years                                                          	class     	event          	determined numbered                   	adjective            	NOT_VAGUE
+Half of the world's geysers and hydrothermal features                               	class     	place          	numbered                              	preposition          	NOT_VAGUE
+Yellowstone                                                                         	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+this ongoing volcanism                                                              	instance  	intangible     	mass_noun qualified_anaphora          	adjective            	NOT_VAGUE
+Lava flows and rocks from volcanic eruptions                                        	class     	product        	undetermined                          	preposition          	NOT_VAGUE
+most of the land area of Yellowstone                                                	instance  	place          	determined contains_named             	preposition          	degree
+the park                                                                            	instance  	place          	determined anaphora                   	MODIFIERS            	NOT_VAGUE
+the centerpiece of the Greater Yellowstone Ecosystem                                	instance  	intangible     	determined contains_named             	preposition          	NOT_VAGUE
+the largest remaining nearly-intact ecosystem in the Earth's northern temperate zone	instance  	place          	determined contains_named             	adjective preposition	NOT_VAGUE
+Yellowstone                                                                         	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+a UNESCO World Heritage Site                                                        	instance  	place          	undetermined named                    	MODIFIERS            	NOT_VAGUE
+Hundreds of species of mammals, birds, fish, reptiles, and amphibians               	class     	Taxon          	undetermined                          	preposition          	NOT_VAGUE
+The vast forests and grasslands                                                     	class     	place          	determined                            	adjective            	degree
+unique species of plants                                                            	class     	taxon          	undetermined                          	adjective preposition	subjective portions
+Yellowstone Park                                                                    	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+the largest and most famous megafauna location in the contiguous United States      	instance  	place          	determined contains_named             	adjective preposition	subjective
+Grizzly bears                                                                       	class     	taxon          	undetermined                          	MODIFIERS            	portions
+wolves                                                                              	class     	taxon          	undetermined                          	MODIFIERS            	portions
+free-ranging herds of bison and elk                                                 	class     	taxon          	undetermined                          	adjective preposition	portions
+this park                                                                           	instance  	place          	undetermined qualified_anaphora       	adjective preposition	NOT_VAGUE
+The Yellowstone Park bison herd                                                     	instance  	taxon          	determined contains_named             	MODIFIERS            	NOT_VAGUE
+the oldest and largest public bison herd in the United States                       	instance  	taxon          	determined contains_named             	adjective preposition	NOT_VAGUE
+Forest fires                                                                        	instance  	event          	undetermined                          	adjective            	NOT_VAGUE
+the park                                                                            	instance  	place          	determined anaphora                   	MODIFIERS            	NOT_VAGUE
+each year                                                                           	instance  	intangible     	undetermined                          	MODIFIERS            	NOT_VAGUE
+the large forest fires of 1988                                                      	class     	event          	determined                            	adjective preposition	NOT_VAGUE
+nearly one third of the park                                                        	instance  	place          	undetermined                          	preposition          	NOT_VAGUE
+Yellowstone                                                                         	instance  	place          	named                                 	MODIFIERS            	NOT_VAGUE
+numerous recreational opportunities                                                 	class     	intangible     	undetermined                          	adjective            	degree portions
+hiking                                                                              	instance  	action         	mass_noun                             	MODIFIERS            	NOT_VAGUE
+camping                                                                             	instance  	action         	mass_noun                             	MODIFIERS            	NOT_VAGUE
+boating                                                                             	instance  	action         	mass_noun                             	MODIFIERS            	NOT_VAGUE
+fishing                                                                             	instance  	action         	mass_noun                             	MODIFIERS            	NOT_VAGUE
+sightseeing                                                                         	instance  	action         	mass_noun                             	MODIFIERS            	NOT_VAGUE
+Paved roads                                                                         	class     	place          	undetermined                          	MODIFIERS            	portions
+close access                                                                        	instance  	intangible     	mass_noun                             	adjective            	degree
+the major geothermal areas                                                          	class     	place          	determined                            	adjective            	subjective portions
+some of the lakes and waterfalls                                                    	class     	place          	determined                            	preposition          	degree portions
+the winter                                                                          	instance  	event          	determined mass_noun                  	MODIFIERS            	NOT_VAGUE
+visitors                                                                            	class     	person         	undetermined                          	MODIFIERS            	NOT_VAGUE
+the park                                                                            	instance  	place          	determined anaphora                   	preposition          	NOT_VAGUE
+way of guided tours                                                                 	class     	intangible     	undetermined                          	preposition          	NOT_VAGUE
+snow coaches                                                                        	class     	product        	undetermined                          	adjective            	NOT_VAGUE
+snowmobiles                                                                         	class     	product        	undetermined                          	MODIFIERS            	NOT_VAGUE

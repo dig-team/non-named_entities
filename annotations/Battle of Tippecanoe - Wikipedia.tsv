@@ -1,0 +1,56 @@
+expression                                              	plurality 	Yago4          	manifestation                    	modifiers                 	vagueness
+The Battle of Tippecanoe                                	instance  	Event          	determined named                 	preposition               	NOT_VAGUE
+Battle Ground, Indiana                                  	instance  	Place          	named                            	MODIFIERS                 	NOT_VAGUE
+American forces                                         	class     	Organization   	undetermined                     	adjective                 	portions
+Governor William Henry Harrison of the Indiana Territory	instance  	Person         	named                            	preposition               	NOT_VAGUE
+Indian forces                                           	class     	Organization   	undetermined                     	adjective                 	portions
+Shawnee leader Tecumseh                                 	instance  	Person         	named                            	adjective                 	NOT_VAGUE
+his brother Tenskwatawa                                 	instance  	Person         	named qualified_anaphora         	MODIFIERS                 	NOT_VAGUE
+The Prophet                                             	instance  	Person         	determined named                 	MODIFIERS                 	NOT_VAGUE
+leaders of a confederacy of various tribes              	class     	Person         	undetermined                     	preposition               	not_vague
+European-American settlement of the American frontier   	instance  	Person         	undetermined                     	adjective preposition noun	not_vague
+tensions                                                	class     	intangible     	undetermined                     	modifiers                 	subjective
+violence                                                	instance  	intangible     	mass_noun                        	modifiers                 	subjective
+Governor Harrison                                       	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+an army of about 1,000 men                              	instance  	Organization   	undetermined                     	preposition               	degree
+the confederacy's headquarters at Prophetstown          	instance  	Organization   	determined contains_named        	preposition               	NOT_VAGUE
+the confluence of the Tippecanoe River                  	instance  	Place          	determined contains_named        	preposition               	NOT_VAGUE
+the Wabash River                                        	instance  	Place          	determined named                 	MODIFIERS                 	NOT_VAGUE
+Tecumseh                                                	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+the United States                                       	instance  	Organization   	determined named                 	MODIFIERS                 	NOT_VAGUE
+Harrison's army                                         	instance  	Organization   	named                            	MODIFIERS                 	NOT_VAGUE
+Tenskwatawa                                             	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+a spiritual leader                                      	instance  	Person         	undetermined                     	adjective                 	NOT_VAGUE
+a military man                                          	instance  	Person         	undetermined                     	adjective                 	NOT_VAGUE
+Harrison                                                	instance  	Person         	named                            	MODIFIERS                 	NOT_VAGUE
+Prophetstown                                            	instance  	Place          	named                            	MODIFIERS                 	NOT_VAGUE
+warriors from Prophetstown                              	class     	Person         	undetermined contains_named      	preposition               	portions
+Harrison's army                                         	instance  	organization   	determined contains_named        	modifiers                 	not_vague
+the army                                                	instance  	Organization   	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+surprise                                                	instance  	intangible     	mass_noun                        	modifiers                 	not_vague
+Harrison                                                	instance  	person         	named                            	modifiers                 	not_vague
+his men                                                 	class     	Person         	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+their ground                                            	instance  	Place          	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+the battle                                              	instance  	Event          	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+Harrison's men                                          	class     	Person         	determined contains_named        	MODIFIERS                 	NOT_VAGUE
+Prophetstown                                            	instance  	Place          	named                            	MODIFIERS                 	NOT_VAGUE
+the ground                                              	instance  	Place          	determined                       	MODIFIERS                 	NOT_VAGUE
+the food supplies                                       	class     	Product        	determined                       	MODIFIERS                 	NOT_VAGUE
+the winter                                              	instance  	Intangible     	determined                       	MODIFIERS                 	NOT_VAGUE
+The soldiers                                            	class     	Person         	determined anaphora              	MODIFIERS                 	NOT_VAGUE
+their homes                                             	class     	Place          	qualified_anaphora               	MODIFIERS                 	NOT_VAGUE
+Harrison                                                	instance  	person         	named                            	modifiers                 	not_vague
+his goal of destroying Prophetstown                     	instance  	Intangible     	qualified_anaphora contains_named	preposition               	NOT_VAGUE
+The win                                                 	instance  	Event          	determined                       	MODIFIERS                 	NOT_VAGUE
+Harrison                                                	instance  	person         	named                            	modifiers                 	not_vague
+the nickname of “Tippecanoe”                            	instance  	CreativeWork   	determined                       	preposition               	NOT_VAGUE
+the defeat                                              	instance  	Event          	determined                       	MODIFIERS                 	NOT_VAGUE
+a fatal blow for Tecumseh's confederacy                 	instance  	Intangible     	undetermined contains_named      	adjective preposition     	NOT_VAGUE
+comeback attempts                                       	class     	Action         	undetermined                     	noun                      	NOT_VAGUE
+Harrison’s nickname                                     	instance  	CreativeWork   	undetermined contains_named      	MODIFIERS                 	NOT_VAGUE
+"Tippecanoe and Tyler too "                             	instance  	CreativeWork   	named                            	MODIFIERS                 	NOT_VAGUE
+his campaign slogan                                     	instance  	CreativeWork   	qualified_anaphora               	noun                      	NOT_VAGUE
+a popularized campaign song                             	instance  	CreativeWork   	undetermined                     	noun adjective            	degree
+predisent                                               	instance  	Organization   	undetermined                     	MODIFIERS                 	NOT_VAGUE
+John Tyler                                              	instance  	Person         	named                            	preposition               	NOT_VAGUE
+his running mate                                        	instance  	Person         	qualified_anaphora               	modifiers                 	not_vague

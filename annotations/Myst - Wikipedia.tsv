@@ -1,0 +1,51 @@
+expression                              	plurality 	Yago4          	manifestation              	modifiers            	vagueness
+Myst                                    	instance  	CreativeWork   	named                      	MODIFIERS            	NOT_VAGUE
+a graphic adventure puzzle video game   	instance  	CreativeWork   	undetermined               	adjective noun       	NOT_VAGUE
+the Miller brothers                     	class     	Person         	determined named           	MODIFIERS            	NOT_VAGUE
+Robyn                                   	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Rand                                    	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+Cyan, Inc.                              	instance  	Organization   	named                      	MODIFIERS            	NOT_VAGUE
+Broderbund                              	instance  	Organization   	named                      	MODIFIERS            	NOT_VAGUE
+the Macintosh personal computer platform	instance  	Product        	determined contains_named  	adjective noun       	NOT_VAGUE
+the game                                	instance  	CreativeWork   	determined anaphora        	MODIFIERS            	NOT_VAGUE
+players                                 	class     	Person         	undetermined               	MODIFIERS            	portions
+a special book                          	instance  	CreativeWork   	undetermined               	adjective            	not_vague
+the island of Myst                      	instance  	Place          	determined contains_named  	preposition          	NOT_VAGUE
+puzzles                                 	class     	CreativeWork   	named                      	MODIFIERS            	portions
+four other worlds                       	class     	Place          	numbered                   	MODIFIERS            	NOT_VAGUE
+Ages                                    	class     	Place          	named                      	MODIFIERS            	NOT_VAGUE
+the backstory of the game's characters  	class     	CreativeWork   	determined                 	preposition          	NOT_VAGUE
+the Miller brothers                     	class     	Person         	determined named           	MODIFIERS            	NOT_VAGUE
+their start in video game development   	instance  	Event          	qualified_anaphora         	preposition noun     	NOT_VAGUE
+titles for children                     	class     	CreativeWork   	undetermined               	preposition          	portions
+their first game for adults             	class     	CreativeWork   	qualified_anaphora         	adjective preposition	NOT_VAGUE
+funding                                 	instance  	Product        	mass_noun                  	modifiers            	degree
+publisher Sunsoft                       	instance  	Organization   	named                      	preposition          	NOT_VAGUE
+Development                             	instance  	CreativeWork   	mass_noun                  	MODIFIERS            	NOT_VAGUE
+Cyan's biggest undertaking              	instance  	CreativeWork   	contains_named             	adjective            	subjective
+Technical constraints of the time       	class     	CreativeWork   	undetermined               	adjective preposition	subjective
+the design of the game                  	instance  	CreativeWork   	determined mass_noun       	preposition          	NOT_VAGUE
+the production of its graphics          	instance  	CreativeWork   	determined mass_noun       	preposition          	NOT_VAGUE
+state-of-the-art                        	instance  	CreativeWork   	mass_noun                  	preposition          	NOT_VAGUE
+Robyn Miller                            	instance  	Person         	named                      	MODIFIERS            	NOT_VAGUE
+40 minutes of synthesized music         	class     	CreativeWork   	numbered                   	adjective preposition	NOT_VAGUE
+the soundtrack to Myst                  	instance  	CreativeWork   	determined contains_named  	MODIFIERS            	NOT_VAGUE
+Myst                                    	instance  	CreativeWork   	named                      	MODIFIERS            	NOT_VAGUE
+a surprise hit                          	instance  	CreativeWork   	undetermined               	noun                 	degree
+Critics                                 	class     	Person         	undetermined               	MODIFIERS            	portions
+the ability of the game                 	instance  	Intangible     	determined                 	preposition          	NOT_VAGUE
+players                                 	class     	Person         	undetermined               	adjective preposition	portions
+its fictional world                     	instance  	CreativeWork   	qualified_anaphora         	adjective            	not_vague
+more than six million copies            	class     	Product        	numbered                   	MODIFIERS            	degree
+the best-selling PC game                	instance  	CreativeWork   	determined                 	adjective            	NOT_VAGUE
+The Sims                                	instance  	CreativeWork   	determined named           	MODIFIERS            	NOT_VAGUE
+Myst sales                              	class     	Intangible     	undetermined contains_named	MODIFIERS            	NOT_VAGUE
+adoption of the new CD-ROM format       	instance  	Intangible     	mass_noun                  	adjective preposition	NOT_VAGUE
+a multimedia franchise                  	instance  	CreativeWork   	undetermined               	MODIFIERS            	NOT_VAGUE
+clones                                  	class     	CreativeWork   	undetermined               	MODIFIERS            	portions
+parodies                                	class     	CreativeWork   	undetermined               	MODIFIERS            	portions
+new genres of video games               	class     	CreativeWork   	undetermined               	adjective preposition	portions
+Multiple remakes and ports of the game  	class     	CreativeWork   	undetermined anaphora      	MODIFIERS            	degree portions
+other platforms                         	class     	Product        	undetermined               	adjective            	portions
+spin-off novels                         	class     	CreativeWork   	undetermined               	MODIFIERS            	portions
+other media                             	class     	CreativeWork   	undetermined               	adjective            	portions
