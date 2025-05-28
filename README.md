@@ -1,15 +1,6 @@
 # Non-Named Entities – The Silent Majority
 
-This is a joint work between [Pierre-Henri Paris](https://phparis.net) and 
-<a href="https://suchanek.name" target="_blank">Fabian M. Suchanek</a> (both at <a href="https://www.telecom-paris.fr/en/home" target="_blank">Télécom Paris</a>,
-<a href="https://dig.telecom-paris.fr/blog/" target="_blank">DIG
-team</a>).
-
-<br>
-
-## Non-Named Entities?
-            
-Human texts usually contain a lot of <a
+Texts usually contain a lot of <a
 href="https://en.wikipedia.org/wiki/Noun_phrase#:~:text=A%20noun%20phrase%2C%20or%20nominal,most%20frequently%20occurring%20phrase%20type."
 target="_blank">noun phrases</a> that often function as verb subjects and objects, as predicative
 expressions and as the complements of prepositions.
@@ -21,7 +12,7 @@ amount of information.
 Consider the following example which contains a <span style="color:red">named entity</span> and two
 <span style="color:blue">non-named entities</span>:
 
-<blockquote><i class="e">« <span style="color:red" data-bs-toggle="tooltip" data-bs-placement="top"
+<blockquote><i class="e"><span style="color:red" data-bs-toggle="tooltip" data-bs-placement="top"
 data-bs-html="true" data-bs-customClass="fs-high"
 title="<span style='font-size: 5.8em;'>This is a <span class='fw-bolder'>named entity</span>, e.g. on Wikidata.</span>">The
 <a href="https://www.wikidata.org/wiki/Q33761" target="_blank" style="color:red">Arab
@@ -30,7 +21,7 @@ Spring</a></span> resulted in
 title="This is a non-named entity.">contentious battle between a consolidation of power by
 religious elites</span> and <span style="color:blue" data-bs-toggle="tooltip"
 data-bs-placement="top" title="This is another non-named entity.">the growing support for
-democracy</span>. »</i>
+democracy</span>.</i>
 </blockquote>
 
 <br>
@@ -42,7 +33,7 @@ its importance</span>.
 Indeed, the two non-named entities explain the Arab Spring event, but will not be mapped to the
 knowledge bases.
 
-In this position paper:
+In this work:
 
 1. We <span class="fw-bolder">manually analyzed this phenomenon</span> in 30 Wikipedia abstracts,
 allowing us to quantify the information lost,
@@ -222,17 +213,13 @@ class="e">« dormant volcano »</i> or <i class="e">« his characteristic surrea
 
 <br>
 
-#### To cite this work
+## To go further
 
-<blockquote>Pierre-Henri Paris, Fabian M. Suchanek. <span class="fst-italic">Non-named entities - the silent
-majority</span>. In ESWC 2021.</blockquote>
+Read (and cite) our paper
 
-<br>
+[Pierre-Henri Paris](https://phparis.me) and [Fabian M. Suchanek](https://suchanek.name): “[Non-named entities - the silent majority](https://suchanek.name/work/publications/eswc-2021-entities.pdf)”, ESWC 2021
 
-#### Additional materials
-
-- The paper is available <a href="https://openreview.net/pdf?id=bdC-s5cjrm6" target="_blank">here</a>,
-- the text annotation guideline [here](annotation_guideline.md),
+- see the text annotation guideline [here](annotation_guideline.md),
 - all Wikipedia articles we processed are in the [articles](articles/) directory,
 - and all annotations are in the [annotations](annotations/) directory.
 
